@@ -1,2 +1,2 @@
-# materials
-Repositorio para materiales didácticos
+# Mareal
+Repositorio para materiales didácticos y asesorías de inglés
