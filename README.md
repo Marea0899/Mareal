@@ -1,2 +1,2 @@
 # Mareal
-Repositorio para materiales didácticos y asesorías de inglés
+Repositorio para materiales didácticos digitales y asesorías de inglés
